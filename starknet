@@ -1,5 +1,5 @@
 #[contract]
-mod starknet.io {
+mod starknet.io swap {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
 
