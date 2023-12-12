@@ -6,7 +6,7 @@ mod starknetidtestnet {
 
     #[event]
     fn Hello(from: ContractAddress, value: felt252) {}
-new testnet2
+new testnet2 xxxxxxxx
 
     #[external]
     fn Say_Hello(message: felt252) {
